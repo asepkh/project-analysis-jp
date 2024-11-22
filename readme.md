@@ -103,7 +103,7 @@ Rebuilding corporate website en.yachiyo-ind.co.jp with:
 - R&D Pages (3)
 - Site Map
 
-## Timeline (7 Months)
+## Timeline (8 Months)
 
 ### Month 1-2: Planning & Design (8 weeks)
 
@@ -112,21 +112,21 @@ Rebuilding corporate website en.yachiyo-ind.co.jp with:
 - Frontend: Architecture planning (2 weeks)
 - Backend: System design (2 weeks)
 
-### Month 3-5: Core Development (12 weeks)
+### Month 3-6: Core Development (12 weeks)
 
 - Frontend: Core components & pages (12 weeks)
 - Backend: API & CMS integration (12 weeks)
 - UI/UX: Design iterations (4 weeks)
 - QA: Test planning & automation setup (4 weeks)
 
-### Month 6: Integration & Testing (4 weeks)
+### Month 7: Integration & Testing (4 weeks)
 
 - Frontend: Integration & optimization (4 weeks)
 - Backend: Security & performance (4 weeks)
 - QA: Full testing cycle (4 weeks)
 - Business Analyst: Documentation (4 weeks)
 
-### Month 7: Refinement & Launch (4 weeks)
+### Month 8: Refinement & Launch (4 weeks)
 
 - Bug fixes (2 weeks)
 - Performance optimization (1 week)
@@ -189,9 +189,7 @@ Rebuilding corporate website en.yachiyo-ind.co.jp with:
 7. Content migration
 8. Stakeholder feedback cycles
 
-## Total Project Duration: 28 weeks (7 months)
-
-Total work hours: 3,840 hours
+## Total Project Duration: 32 weeks (8 months)
 
 This timeline accounts for:
 

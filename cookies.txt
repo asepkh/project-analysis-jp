@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+en.yachiyo-ind.co.jp	TRUE	/	FALSE	1999999999	AWSALB	U1Hreys24DuHrlbNhxx9XQU14PpG/kSc20TNmvP0pL1rWnO0v/yZ6upznS3KtLK8M9jVGuBSUJ0wekgwzY7RJHTwHqrkRHM4qEqUj6aGTnw4yI5oLGrjNeyTCIjC
+en.yachiyo-ind.co.jp	TRUE	/	FALSE	1999999999	AWSALBCORS	U1Hreys24DuHrlbNhxx9XQU14PpG/kSc20TNmvP0pL1rWnO0v/yZ6upznS3KtLK8M9jVGuBSUJ0wekgwzY7RJHTwHqrkRHM4qEqUj6aGTnw4yI5oLGrjNeyTCIjC
+en.yachiyo-ind.co.jp	TRUE	/	FALSE	1999999999	SameSite	None
+

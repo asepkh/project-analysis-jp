@@ -35,7 +35,7 @@ Rebuilding corporate website en.yachiyo-ind.co.jp with:
 
 ### About Us Section (11 pages)
 
-1. Message
+1. Messaget
 2. Corporate Philosophy
 3. Vision 2030
 4. Corporate Profile
@@ -103,28 +103,7 @@ Rebuilding corporate website en.yachiyo-ind.co.jp with:
 - R&D Pages (3)
 - Site Map
 
-## Development Effort Distribution
-
-### Frontend Development (960 hours)
-
-- High Complexity Pages: 420h (60h per page)
-- Medium Complexity Pages: 360h (30h per page)
-- Standard Complexity Pages: 120h (15h per page)
-- Common Components: 60h
-
-### Backend Development (960 hours)
-
-- API Development: 320h
-  - Content Management: 120h
-  - Data Integration: 120h
-  - File Management: 80h
-- Database Design: 80h
-- Security Implementation: 160h
-- Performance Optimization: 160h
-- CMS Integration: 240h
--
-
-## Timeline (6 Months)
+## Timeline (7 Months)
 
 ### Month 1-2: Planning & Design (8 weeks)
 
@@ -154,7 +133,28 @@ Rebuilding corporate website en.yachiyo-ind.co.jp with:
 - Content migration (2 weeks)
 - Launch preparation (1 week)
 
-## Work Breakdown (Hours)
+## Development Effort Distribution
+
+### Frontend Development (1280 hours)
+
+- Setup & architecture: 80h
+- Optimization: 100h
+- High Complexity Pages: 560h (80h per page)
+- Medium Complexity Pages: 360h (30h per page)
+- Standard Complexity Pages: 120h (15h per page)
+- Common Components: 60h
+
+### Backend Development (1280 hours)
+
+- Architecture: 80h
+- API Development: 560h
+  - Content Management: 240h
+  - Data Integration: 240h
+  - File Management: 80h
+- Database Design: 80h
+- Security Implementation: 160h
+- Performance Optimization: 160h
+- CMS Integration: 240h
 
 ### UI/UX Designer (480 hours)
 
@@ -162,22 +162,6 @@ Rebuilding corporate website en.yachiyo-ind.co.jp with:
 - Page templates: 200h
 - Responsive design: 120h
 - Revisions: 80h
-
-### Frontend Developer (1280 hours)
-
-- Setup & architecture: 80h
-- Core components: 360h
-- Page implementations: 560h
-- Optimization: 160h
-- Integration: 80h
-
-### Backend Developer (1280 hours)
-
-- Architecture: 80h
-- API development: 480h
-- CMS integration: 400h
-- Security: 160h
-- Performance: 160h
 
 ### Quality Assurance (640 hours)
 

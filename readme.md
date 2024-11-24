@@ -1,16 +1,10 @@
 # Project Timeline Analysis for Yachiyo Website Rebuild
 
-by asepkh, helped by ChatGPT
+by asepkh
 
 ## Project Overview
 
-Rebuilding corporate website en.yachiyo-ind.co.jp with:
-
-- 1 Frontend Developer (NextJS)
-- 1 Backend Developer (Java)
-- 1 Quality Assurance (Katalon for test automation)
-- 1 Business Analyst
-- 1 UI/UX Designer
+Revamp corporate website en.yachiyo-ind.co.jp with updated design and technology.
 
 ## Technical Complexity Factors
 
@@ -135,48 +129,48 @@ Rebuilding corporate website en.yachiyo-ind.co.jp with:
 
 ## Development Effort Distribution
 
-### Frontend Development (1280 hours)
+### Frontend Development
 
-- Setup & architecture: 80h
-- Optimization: 100h
-- High Complexity Pages: 560h (80h per page)
-- Medium Complexity Pages: 360h (30h per page)
-- Standard Complexity Pages: 120h (15h per page)
-- Common Components: 60h
+- Setup & architecture
+- Optimization
+- High Complexity Pages
+- Medium Complexity Pages
+- Standard Complexity Pages
+- Common Components
 
-### Backend Development (1280 hours)
+### Backend Development
 
-- Architecture: 80h
-- API Development: 560h
-  - Content Management: 240h
-  - Data Integration: 240h
-  - File Management: 80h
-- Database Design: 80h
-- Security Implementation: 160h
-- Performance Optimization: 160h
-- CMS Integration: 240h
+- Architecture
+- API Development
+  - Content Management
+  - Data Integration
+  - File Management
+- Database Design
+- Security Implementation
+- Performance Optimization
+- CMS Integration
 
-### UI/UX Designer (480 hours)
+### UI/UX Designer
 
-- Design system: 80h
-- Page templates: 200h
-- Responsive design: 120h
-- Revisions: 80h
+- Design system
+- Page templates
+- Responsive design
+- Revisions
 
-### Quality Assurance (640 hours)
+### Quality Assurance
 
-- Test planning: 80h
-- Automation: 240h
-- Manual testing: 160h
-- Performance testing: 80h
-- Security testing: 80h
+- Test planning
+- Automation
+- Manual testing
+- Performance testing
+- Security testing
 
-### Business Analyst (480 hours)
+### Business Analyst
 
-- Requirements: 160h
-- Documentation: 160h
-- Stakeholder management: 80h
-- Content strategy: 80h
+- Requirements
+- Documentation
+- Stakeholder management
+- Content strategy
 
 ## Risk Factors
 
